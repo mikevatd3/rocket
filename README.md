@@ -54,3 +54,7 @@ Here is a brief description of what we did in co-working sessions on each date
 #### Summary
 - D3 ID contenxt - developed as way to id parcels that have changed over time
    - start date, end date, parcel id = better matching
+ 
+### 2026-06-08 exporting percentiles + counts of residential, institutional, and vacant counts w/ in Alpine-Joy Boundary into csv
+"Q:\3_Projects\ROCKETRUST\Y2 Activity 2 - Alpine-Joy Place-Based Investment Area Analysis\IPDS Summaries\alpine_joy_assessors_sales_20260608.csv"
+
