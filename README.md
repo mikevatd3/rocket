@@ -39,3 +39,18 @@ Here is a brief description of what we did in co-working sessions on each date
   transactions weren't easily identifiable from the table.
 
 ### 2026-06-01 
+
+### 2026-06-02 cut short due to MV internet going out + SDC
+
+### 2026-06-03 Bug Hunting + ACS Pull
+
+#### Summary
+- We looked at the script for the boundary pf - adding date type casts
+- review Abhi's ACS pull - Q:\3_Projects\ROCKETRUST\Y2 Activity 2 - Alpine-Joy Place-Based Investment Area Analysis\ACS Data Pull
+- GEOIDS for the 3 boundaries in three diff tabs - list can be found in task comments
+
+### 2026-06-04 History + DTB final edits to boundary pf
+
+#### Summary
+- D3 ID contenxt - developed as way to id parcels that have changed over time
+   - start date, end date, parcel id = better matching
