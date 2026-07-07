@@ -38,7 +38,13 @@ Here is a brief description of what we did in co-working sessions on each date
   which you might expect. *Maybe* could use a more fine-grained look, but these
   transactions weren't easily identifiable from the table.
 
-### 2026-06-01 
+### 2026-06-01 Starting on Median Sales Price
+
+#### Summary
+
+- Organized all current work into this repo.
+- Started median sale price queries Danielle on the assessors parcel sales file,
+  and Mike on ROD. Didn't finish, but will continue tomorrow.
 
 ### 2026-06-02 cut short due to MV internet going out + SDC
 
@@ -57,4 +63,3 @@ Here is a brief description of what we did in co-working sessions on each date
  
 ### 2026-06-08 exporting percentiles + counts of residential, institutional, and vacant counts w/ in Alpine-Joy Boundary into csv
 "Q:\3_Projects\ROCKETRUST\Y2 Activity 2 - Alpine-Joy Place-Based Investment Area Analysis\IPDS Summaries\alpine_joy_assessors_sales_20260608.csv"
-
